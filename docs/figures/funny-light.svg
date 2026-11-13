@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 452" width="880" height="452" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect x="0.5" y="0.5" width="879.0" height="451.0" rx="12" fill="#fcfcfb" stroke="#0b0b0b" stroke-opacity="0.1"/>
+<defs><filter id="funny-glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="7"/></filter><filter id="funny-shadow" x="-20%" y="-20%" width="140%" height="150%"><feGaussianBlur stdDeviation="9"/></filter></defs>
+<text x="28" y="42" font-size="11" letter-spacing="0.8" fill="#898781">COMING NEVER  ·  FOR THE MACBOOK PRO WITH PROLED XDR DISPLAY</text>
+<text x="26.0" y="108.0" font-size="60" font-weight="700" text-anchor="start" fill="#0b0b0b">PWMFix</text>
+<text x="290.0" y="86.0" font-size="19" font-weight="600" text-anchor="start" fill="#0b0b0b">The software fix for display flicker.*</text>
+<text x="290.0" y="111.0" font-size="19" font-weight="400" text-anchor="start" fill="#52514e">If it existed.</text>
+<rect x="28" y="176" width="300" height="160" rx="14" fill="#000000" opacity="0.14" filter="url(#funny-shadow)"/>
+<rect x="28" y="170" width="300" height="160" rx="14" fill="#ffffff" stroke="#0b0b0b" stroke-opacity="0.14"/>
+<text x="48.0" y="208.0" font-size="14" font-weight="600" text-anchor="start" fill="#0b0b0b">Dim Without Flicker</text>
+<rect x="264" y="191" width="44" height="24" rx="12" fill="#2a78d6"/>
+<circle cx="296" cy="203" r="10" fill="#ffffff"/>
+<line x1="48.0" y1="230.0" x2="308.0" y2="230.0" stroke="#e1e0d9" stroke-width="1"/>
+<circle cx="56" cy="256" r="3.5" fill="#898781"/>
+<rect x="74.0" y="254.0" width="204.0" height="4.0" rx="2" fill="#e1e0d9"/>
+<rect x="74.0" y="254.0" width="73.4" height="4.0" rx="2" fill="#2a78d6"/>
+<circle cx="147.4" cy="256" r="8" fill="#ffffff" stroke="#c3c2b7"/>
+<circle cx="302" cy="256" r="4.5" fill="#898781"/>
+<line x1="309.0" y1="256.0" x2="311.5" y2="256.0" stroke="#898781" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="306.9" y1="260.9" x2="308.7" y2="262.7" stroke="#898781" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="302.0" y1="263.0" x2="302.0" y2="265.5" stroke="#898781" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="297.1" y1="260.9" x2="295.3" y2="262.7" stroke="#898781" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="295.0" y1="256.0" x2="292.5" y2="256.0" stroke="#898781" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="297.1" y1="251.1" x2="295.3" y2="249.3" stroke="#898781" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="302.0" y1="249.0" x2="302.0" y2="246.5" stroke="#898781" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="306.9" y1="251.1" x2="308.7" y2="249.3" stroke="#898781" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="48.0" y1="282.0" x2="308.0" y2="282.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="48.0" y="309.0" font-size="13" font-weight="400" text-anchor="start" fill="#52514e">Flicker removed</text>
+<text x="308.0" y="309.0" font-size="13" font-weight="700" text-anchor="end" fill="#0b0b0b">0 %</text>
+<text x="372" y="186" font-size="11" letter-spacing="0.8" fill="#898781">WITHOUT PWMFIX</text>
+<rect x="372" y="196" width="228" height="112" rx="10" fill="#111110" stroke="#0b0b0b" stroke-opacity="0.16"/>
+<g fill="#3987e5" opacity="0.9" filter="url(#funny-glow)"><path d="M402,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M440,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M478,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M516,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M554,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/></g><g fill="#9ec5f4"><path d="M402,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M440,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M478,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M516,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M554,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/></g>
+<line x1="390" y1="284" x2="582" y2="284" stroke="#4a4a46"/>
+<text x="624" y="186" font-size="11" letter-spacing="0.8" fill="#898781">WITH PWMFIX</text>
+<rect x="624" y="196" width="228" height="112" rx="10" fill="#111110" stroke="#0b0b0b" stroke-opacity="0.16"/>
+<g fill="#3987e5" opacity="0.9" filter="url(#funny-glow)"><path d="M654,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M692,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M730,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M768,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M806,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/></g><g fill="#9ec5f4"><path d="M654,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M692,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M730,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M768,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/><path d="M806,284 v-52 a5,5 0 0 1 5,-5 h6 a5,5 0 0 1 5,5 v52 z"/></g>
+<line x1="642" y1="284" x2="834" y2="284" stroke="#4a4a46"/>
+<text x="612.0" y="262.0" font-size="30" font-weight="600" text-anchor="middle" fill="#52514e">=</text>
+<g transform="rotate(-7 782 200)"><rect x="700" y="184" width="164" height="30" rx="15" fill="#2a78d6"/><text x="782" y="204" font-size="12.5" font-weight="700" text-anchor="middle" fill="#ffffff" letter-spacing="0.6">0 % LESS FLICKER!</text></g>
+<text x="612.0" y="336.0" font-size="14" font-weight="600" text-anchor="middle" fill="#0b0b0b">Same panel. Same pulses. Same flicker.</text>
+<text x="28" y="384" font-size="15"><tspan fill="#2a78d6" letter-spacing="2">★★★★★</tspan><tspan dx="10" font-weight="600" fill="#0b0b0b">“I can’t see any difference.”</tspan><tspan dx="8" font-size="12.5" fill="#52514e">my iPhone 18 Pro, at 1/200 s</tspan></text>
+<text x="28.0" y="424.0" font-size="11.5" font-weight="400" text-anchor="start" fill="#898781">* It doesn&#x27;t exist: the one I built and filmed at seven shutter speeds left the flicker where it was. The data: github.com/Ark0N/pwmfix</text>
+</svg>

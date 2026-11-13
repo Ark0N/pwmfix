@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 394" width="880" height="394" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect x="0.5" y="0.5" width="879.0" height="393.0" rx="12" fill="#fcfcfb" stroke="#0b0b0b" stroke-opacity="0.1"/>
+<text x="28.0" y="40.0" font-size="16" font-weight="600" text-anchor="start" fill="#0b0b0b">An exposure that spans whole cycles hides the pulse</text>
+<text x="28.0" y="62.0" font-size="13" font-weight="400" text-anchor="start" fill="#52514e">The length of each shutter&#x27;s exposure against a 240 Hz cycle of 4.2 ms. Flicker as filmed at 45 nits.</text>
+<line x1="320.3" y1="116.0" x2="320.3" y2="314.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="320.3" y="108.0" font-size="11.5" font-weight="400" text-anchor="middle" fill="#52514e">1 cycle</text>
+<line x1="528.7" y1="116.0" x2="528.7" y2="314.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="528.7" y="108.0" font-size="11.5" font-weight="400" text-anchor="middle" fill="#52514e">2 cycles</text>
+<text x="112.0" y="332.0" font-size="11.5" font-weight="400" text-anchor="middle" fill="#898781">0</text>
+<text x="212.0" y="332.0" font-size="11.5" font-weight="400" text-anchor="middle" fill="#898781">2 ms</text>
+<text x="312.0" y="332.0" font-size="11.5" font-weight="400" text-anchor="middle" fill="#898781">4 ms</text>
+<text x="412.0" y="332.0" font-size="11.5" font-weight="400" text-anchor="middle" fill="#898781">6 ms</text>
+<text x="512.0" y="332.0" font-size="11.5" font-weight="400" text-anchor="middle" fill="#898781">8 ms</text>
+<text x="612.0" y="332.0" font-size="11.5" font-weight="400" text-anchor="middle" fill="#898781">10 ms</text>
+<text x="100.0" y="142.0" font-size="13" font-weight="600" text-anchor="end" fill="#0b0b0b">1/100 s</text>
+<path d="M112,131.0 h496.0 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-496.0 z" fill="#898781"/>
+<text x="622.0" y="142.0" font-size="12" font-weight="400" text-anchor="start" fill="#fcfcfb" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round">2.4 cycles · some flicker</text>
+<text x="622.0" y="142.0" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">2.4 cycles · some flicker</text>
+<text x="100.0" y="174.0" font-size="13" font-weight="600" text-anchor="end" fill="#0b0b0b">1/120 s</text>
+<path d="M112,163.0 h412.7 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-412.7 z" fill="#2a78d6"/>
+<text x="538.7" y="174.0" font-size="12" font-weight="400" text-anchor="start" fill="#fcfcfb" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round">2 cycles · hides it</text>
+<text x="538.7" y="174.0" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">2 cycles · hides it</text>
+<text x="100.0" y="206.0" font-size="13" font-weight="600" text-anchor="end" fill="#0b0b0b">1/200 s</text>
+<path d="M112,195.0 h246.0 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-246.0 z" fill="#898781"/>
+<text x="372.0" y="206.0" font-size="12" font-weight="400" text-anchor="start" fill="#fcfcfb" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round">1.2 cycles · strong flicker</text>
+<text x="372.0" y="206.0" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">1.2 cycles · strong flicker</text>
+<text x="100.0" y="238.0" font-size="13" font-weight="600" text-anchor="end" fill="#0b0b0b">1/250 s</text>
+<path d="M112,227.0 h196.0 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-196.0 z" fill="#2a78d6"/>
+<text x="322.0" y="238.0" font-size="12" font-weight="400" text-anchor="start" fill="#fcfcfb" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round">0.96 cycles · hides it</text>
+<text x="322.0" y="238.0" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">0.96 cycles · hides it</text>
+<text x="100.0" y="270.0" font-size="13" font-weight="600" text-anchor="end" fill="#0b0b0b">1/500 s</text>
+<path d="M112,259.0 h96.0 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-96.0 z" fill="#898781"/>
+<text x="222.0" y="270.0" font-size="12" font-weight="400" text-anchor="start" fill="#fcfcfb" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round">0.48 cycles · strong flicker</text>
+<text x="222.0" y="270.0" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">0.48 cycles · strong flicker</text>
+<text x="100.0" y="302.0" font-size="13" font-weight="600" text-anchor="end" fill="#0b0b0b">1/2000 s</text>
+<path d="M112,291.0 h21.0 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-21.0 z" fill="#898781"/>
+<text x="147.0" y="302.0" font-size="12" font-weight="400" text-anchor="start" fill="#fcfcfb" stroke="#fcfcfb" stroke-width="5" stroke-linejoin="round">0.12 cycles · strong flicker</text>
+<text x="147.0" y="302.0" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">0.12 cycles · strong flicker</text>
+<line x1="112.0" y1="116.0" x2="112.0" y2="314.0" stroke="#c3c2b7" stroke-width="1"/>
+<rect x="28.0" y="358.0" width="12.0" height="12.0" rx="2" fill="#2a78d6"/>
+<text x="46.0" y="368.0" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">hides the flicker</text>
+<rect x="168.0" y="358.0" width="12.0" height="12.0" rx="2" fill="#898781"/>
+<text x="186.0" y="368.0" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">shows it</text>
+</svg>

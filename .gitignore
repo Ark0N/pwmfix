@@ -1,0 +1,6 @@
+# Build output of tools kept outside the repo
+.build/
+build/
+
+# macOS
+.DS_Store
